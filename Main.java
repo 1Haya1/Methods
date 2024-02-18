@@ -70,13 +70,13 @@ public class Main {
 //
 //    public static boolean isValidPassword(String password) {
 //        // الشروط:
-//        // 1. يجب أن تحتوي كلمة المرور على عشرة أحرف على الأقل.
+//        // 1. يجب أن تحتوي كلمة المرور على ثمانيه أحرف على الأقل.
 //        // 2. يجب أن تتكون كلمة المرور فقط من الحروف والأرقام.
 //        // 3. يجب أن تحتوي كلمة المرور على رقمين على الأقل.
 //
 //        // الشرط 1:
-//        if (password.length() < 10) {
-//            System.out.println("A password must have at least ten characters.");
+//        if (password.length() < 8) {
+//            System.out.println("A password must have at least eghit characters.");
 //            return false;
 //        }
 //
